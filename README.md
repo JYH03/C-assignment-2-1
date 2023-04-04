@@ -1,2 +1,0 @@
-# C++-assignment
-c++ assignment
