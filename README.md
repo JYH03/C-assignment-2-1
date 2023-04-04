@@ -1,2 +1,2 @@
-# C-assignment-2-1
+# C++-assignment
 c++ assignment
